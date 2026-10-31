@@ -1,0 +1,551 @@
+City,Industry,Platform,Season,TV_Spend_Lakhs,Digital_Spend_Lakhs,Print_Spend_Lakhs,Radio_Spend_Lakhs,Outdoor_Spend_Lakhs,Discount_Percent,Competitor_Spend_Lakhs,Brand_Age_Years,Num_Outlets,Sales_Lakhs
+Kolkata,Education,Outdoor,Summer,21.24,1.36,12.06,3.47,2.33,31.4,19.65,1,88,100.12
+Chennai,Retail,Outdoor,Summer,4.39,5.42,12.18,6.84,8.66,39.8,10.08,39,455,89.51
+Nagpur,Real Estate,Print,Monsoon,22.42,5.85,7.39,0.91,11.59,24.2,37.5,32,195,111.78
+Vadodara,Healthcare,Print,Festive,5.77,11.94,9.44,2.21,14.14,12.3,19.77,26,55,102.31
+Lucknow,Real Estate,Social Media,Winter,20.85,12.37,1.24,3.94,0.73,33.5,20.91,17,390,115.55
+Ahmedabad,Automobile,Digital,Monsoon,30.05,26.29,15.04,9.82,8.08,24.6,6.11,48,214,216.44
+Nagpur,Retail,Social Media,Summer,29.39,15.55,11.21,7.89,7.33,23.2,22.29,27,130,144.53
+Hyderabad,Telecom,Radio,Summer,33.47,21.84,1.63,7.39,10.01,10.1,52.02,24,496,155.74
+Kolkata,Real Estate,TV,Monsoon,5.67,3.57,13.77,1.34,8.61,30.3,15.52,35,452,85.89
+Jaipur,E-Commerce,Outdoor,Festive,32.95,7.15,9.6,7.85,10.46,3.3,42.32,46,462,151.19
+Bangalore,Fashion,Digital,Festive,16.3,21.24,1.17,7.9,10.04,37.0,38.52,42,73,162.3
+Kolkata,Automobile,TV,Summer,20.55,2.06,19.41,6.09,2.2,13.0,52.08,39,269,89.32
+Lucknow,FMCG,Digital,Summer,43.04,14.85,19.01,9.91,12.1,5.1,9.67,26,262,218.95
+Lucknow,Telecom,Social Media,Festive,1.44,18.18,10.5,3.39,2.29,17.7,58.7,49,422,79.44
+Ahmedabad,Automobile,Print,Winter,29.83,18.26,2.33,9.42,10.63,1.7,35.79,38,192,136.51
+Hyderabad,Fashion,Outdoor,Monsoon,30.34,1.18,15.22,9.16,6.53,27.4,59.74,23,234,116.19
+Chennai,Retail,Social Media,Summer,20.44,10.0,10.09,0.31,7.95,36.1,54.87,22,193,76.23
+Ahmedabad,Fashion,TV,Summer,12.61,19.28,6.4,4.61,13.6,33.5,14.85,4,419,133.75
+Ahmedabad,Education,TV,Festive,12.5,4.9,10.08,9.78,13.4,5.1,5.26,49,14,111.29
+Bangalore,Fashion,TV,Monsoon,44.3,21.01,10.69,1.21,12.36,5.1,16.83,9,118,213.15
+Pune,Education,TV,Festive,22.66,22.5,11.47,5.57,7.9,32.5,32.6,4,80,194.09
+Hyderabad,Retail,TV,Monsoon,17.21,29.47,9.1,9.79,11.18,37.0,11.95,7,168,184.47
+Delhi,Food & Beverage,Digital,Monsoon,22.99,6.69,12.31,5.64,7.94,18.4,11.71,23,89,147.38
+Ahmedabad,Education,Social Media,Monsoon,33.8,24.84,18.42,2.06,13.11,20.0,28.83,2,53,187.1
+Bhopal,FMCG,Outdoor,Summer,8.14,15.85,7.56,5.91,6.34,12.7,3.93,49,499,138.13
+Indore,Fashion,Print,Winter,23.02,11.52,14.65,2.2,14.57,35.8,9.07,24,330,154.31
+Pune,Fashion,Print,Festive,29.81,4.11,17.94,5.29,14.02,25.8,26.12,40,181,183.52
+Delhi,FMCG,Social Media,Winter,47.48,22.2,9.39,0.93,11.25,11.5,5.66,31,391,258.54
+Bhopal,E-Commerce,Social Media,Festive,13.37,7.46,9.15,6.13,4.55,12.0,25.01,47,462,115.49
+Hyderabad,Healthcare,Print,Monsoon,18.6,11.46,12.24,5.26,2.41,35.6,29.49,31,393,105.02
+Mumbai,Food & Beverage,Print,Summer,19.59,2.34,12.03,7.45,12.89,0.5,28.17,47,498,101.55
+Bhopal,Telecom,Digital,Winter,30.67,24.14,16.23,6.38,2.9,12.9,52.41,40,222,162.53
+Jaipur,Education,Radio,Summer,18.48,23.11,9.79,5.59,12.89,22.2,32.74,48,193,158.11
+Pune,FMCG,Outdoor,Festive,27.14,22.14,19.92,6.96,7.62,5.9,29.14,43,473,235.19
+Nagpur,Retail,TV,Summer,39.31,9.33,1.66,1.61,6.4,3.7,25.82,34,497,161.53
+Bhopal,Education,Radio,Summer,35.56,5.62,0.56,6.03,13.6,32.6,49.42,24,350,125.48
+Surat,Healthcare,Social Media,Winter,22.87,19.31,12.98,1.89,9.26,35.8,53.91,49,234,130.98
+Mumbai,Retail,Print,Monsoon,43.35,15.14,6.32,9.27,8.86,32.9,51.49,26,259,172.66
+Lucknow,Automobile,Radio,Summer,28.35,5.76,5.19,0.87,8.6,36.0,41.07,16,240,93.88
+Lucknow,Fashion,Outdoor,Monsoon,27.46,20.73,6.58,4.42,5.88,22.1,9.97,47,30,167.48
+Vadodara,Automobile,Social Media,Festive,2.68,29.74,5.49,7.02,11.89,32.5,18.06,13,76,160.63
+Jaipur,Education,TV,Summer,49.35,22.54,1.1,4.69,4.17,15.4,4.67,15,265,237.17
+Bhopal,Healthcare,TV,Winter,7.03,22.33,19.44,1.1,14.11,26.7,55.99,27,258,106.66
+Bhopal,Food & Beverage,Outdoor,Festive,12.33,28.53,4.8,5.62,13.46,39.6,40.33,4,275,190.45
+Vadodara,Education,Outdoor,Festive,3.53,6.49,14.81,6.49,5.39,9.0,45.29,16,127,46.59
+Indore,FMCG,Print,Winter,32.36,17.18,15.37,7.1,11.08,15.6,20.07,30,148,168.01
+Indore,Real Estate,TV,Summer,12.01,29.4,18.62,3.86,8.81,19.2,51.05,44,261,149.74
+Vadodara,Education,Social Media,Summer,9.82,5.38,1.1,5.72,5.4,5.5,17.06,30,148,59.61
+Indore,Fashion,Radio,Festive,5.34,21.16,17.5,4.62,14.83,3.2,2.1,36,425,195.39
+Bangalore,Fashion,Social Media,Summer,6.06,17.78,10.78,6.79,0.87,33.2,23.83,3,263,69.97
+Bhopal,Education,Digital,Monsoon,29.65,17.8,12.83,5.92,4.16,39.1,35.1,22,440,152.2
+Kolkata,Retail,Digital,Winter,34.72,21.08,13.07,5.35,8.04,16.2,29.76,49,51,194.23
+Chennai,Real Estate,Outdoor,Monsoon,20.47,27.92,16.49,2.65,8.07,3.5,52.0,22,355,136.62
+Surat,FMCG,Print,Summer,24.51,23.59,7.0,0.22,9.04,2.6,8.11,49,17,165.49
+Bangalore,Education,Digital,Festive,34.61,2.16,14.79,1.91,11.4,35.7,34.12,12,380,155.94
+Hyderabad,Retail,TV,Winter,1.85,25.66,10.81,1.35,9.54,18.6,31.75,21,212,112.37
+Bangalore,Fashion,Social Media,Summer,16.83,7.15,15.97,4.6,9.2,12.8,18.32,4,315,111.68
+Kolkata,Fashion,Social Media,Summer,48.68,11.62,19.82,6.2,1.28,19.1,49.69,31,239,185.22
+Hyderabad,Healthcare,Outdoor,Festive,29.43,14.12,4.41,2.29,5.96,12.7,45.67,44,153,166.91
+Surat,Education,Radio,Festive,13.46,14.69,19.9,9.4,3.86,19.6,44.51,31,326,165.43
+Kolkata,Real Estate,Outdoor,Monsoon,26.56,13.34,2.25,0.27,4.35,34.4,52.82,23,442,94.23
+Delhi,E-Commerce,Radio,Winter,17.79,28.15,0.55,7.77,8.54,23.7,43.92,20,159,125.78
+Chennai,Real Estate,Outdoor,Winter,27.08,21.33,1.36,6.33,3.39,27.8,15.45,15,170,162.54
+Surat,Fashion,Outdoor,Festive,7.16,19.12,7.16,3.86,4.76,14.6,42.92,23,94,115.2
+Bhopal,Fashion,Outdoor,Monsoon,7.5,1.97,12.84,0.69,3.94,29.5,19.85,28,190,53.66
+Indore,Automobile,Radio,Winter,8.03,27.17,1.85,6.35,14.25,26.7,16.05,16,322,132.12
+Delhi,Fashion,Radio,Festive,47.05,27.33,0.61,3.98,14.2,4.8,6.23,37,362,300.02
+Jaipur,FMCG,Outdoor,Summer,36.91,23.52,18.77,9.38,9.34,22.9,45.15,21,178,180.72
+Surat,Telecom,Digital,Winter,8.96,0.71,16.53,5.51,13.91,10.3,43.24,15,221,38.29
+Jaipur,Education,Print,Monsoon,10.23,2.19,16.28,9.41,11.89,32.2,15.6,17,399,84.47
+Hyderabad,Real Estate,Print,Monsoon,36.81,7.14,17.75,2.36,9.05,17.0,45.46,37,460,142.78
+Delhi,Telecom,Print,Monsoon,8.65,4.37,14.15,7.31,0.59,39.8,55.23,13,268,51.66
+Chennai,Retail,Radio,Summer,12.49,12.27,2.54,6.25,11.7,3.7,8.27,19,101,99.42
+Bhopal,E-Commerce,Radio,Winter,48.2,27.72,8.28,7.45,10.69,31.2,15.49,30,121,245.9
+Vadodara,FMCG,Digital,Winter,13.51,14.43,14.6,2.3,9.42,26.9,45.52,45,203,102.32
+Bhopal,Real Estate,Print,Summer,33.42,0.9,5.97,6.72,11.53,30.7,17.92,18,324,129.89
+Kolkata,Telecom,Print,Winter,48.95,8.84,13.9,5.08,7.94,12.3,38.23,14,490,158.96
+Bhopal,E-Commerce,Outdoor,Summer,19.34,1.82,0.98,7.48,10.71,19.7,6.71,36,25,100.99
+Nagpur,Automobile,Radio,Summer,1.86,1.57,6.47,3.41,14.06,31.9,28.23,36,204,60.45
+Ahmedabad,FMCG,Print,Summer,12.96,8.63,11.21,8.92,5.95,9.3,44.87,20,375,67.16
+Vadodara,FMCG,Social Media,Monsoon,41.71,8.63,12.83,1.03,10.77,9.0,41.82,19,451,145.14
+Bangalore,Automobile,Digital,Winter,43.37,23.72,11.75,8.11,7.4,22.0,49.27,45,345,218.62
+Indore,Education,Social Media,Summer,38.66,29.26,14.11,8.64,10.28,20.9,52.89,44,452,215.72
+Mumbai,Automobile,Social Media,Winter,6.54,11.45,0.62,8.21,11.56,11.3,46.84,7,252,54.91
+Chennai,FMCG,Digital,Monsoon,39.98,13.15,2.47,5.22,1.16,11.9,40.95,44,280,140.78
+Delhi,FMCG,Social Media,Summer,46.02,25.42,17.44,4.5,9.88,11.1,3.84,4,268,258.43
+Ahmedabad,Telecom,Print,Festive,30.43,8.41,13.79,9.96,3.79,30.9,33.03,34,62,184.42
+Chennai,Fashion,Radio,Monsoon,47.1,5.11,2.7,2.45,10.22,26.1,4.19,2,306,173.74
+Delhi,E-Commerce,Digital,Festive,41.52,25.67,16.92,5.56,7.29,33.3,48.87,5,35,267.69
+Indore,Automobile,Outdoor,Winter,33.68,1.87,5.22,6.77,11.72,39.0,20.6,10,253,124.0
+Pune,E-Commerce,Social Media,Winter,29.28,18.78,9.83,7.07,2.29,19.0,34.62,32,97,142.81
+Pune,Automobile,Digital,Monsoon,18.08,17.08,3.33,2.2,9.58,2.7,18.21,42,269,127.59
+Jaipur,Retail,TV,Winter,8.81,10.7,14.35,6.61,4.54,1.9,47.39,41,275,69.81
+Chennai,FMCG,TV,Festive,30.64,9.8,13.5,8.22,12.87,11.8,53.42,13,98,139.31
+Pune,Fashion,Radio,Summer,16.59,23.27,4.62,0.69,13.96,37.3,25.12,39,158,167.8
+Nagpur,Telecom,Print,Summer,43.46,3.05,17.34,9.13,14.95,20.9,52.05,5,398,158.93
+Vadodara,Fashion,Radio,Summer,49.67,7.49,8.33,0.49,12.04,10.9,17.49,10,289,174.69
+Delhi,Fashion,Radio,Monsoon,37.87,22.11,6.2,3.69,11.43,16.0,33.01,10,84,171.25
+Jaipur,Fashion,Radio,Winter,5.43,16.68,3.47,0.35,3.62,23.9,51.81,38,296,63.32
+Bhopal,E-Commerce,Radio,Festive,15.15,4.28,5.69,0.96,5.37,26.1,20.9,27,88,101.42
+Delhi,Automobile,Outdoor,Winter,6.35,26.52,0.93,9.13,7.25,6.2,57.33,21,369,65.25
+Jaipur,Food & Beverage,Outdoor,Winter,32.88,12.11,11.87,3.68,11.71,39.1,9.07,8,378,197.44
+Indore,Retail,Digital,Winter,38.49,24.92,16.92,4.36,13.77,21.8,3.06,1,41,218.92
+Chennai,Real Estate,TV,Summer,46.36,23.74,11.21,2.31,3.24,5.4,54.44,28,346,184.58
+Indore,Fashion,Radio,Festive,22.47,18.92,4.78,6.05,13.87,35.7,5.98,49,331,230.79
+Vadodara,Education,Digital,Festive,45.17,15.09,1.16,6.03,10.59,3.0,59.53,39,411,224.17
+Vadodara,E-Commerce,TV,Winter,44.02,29.4,4.69,3.85,9.36,36.3,57.18,14,429,204.67
+Ahmedabad,Telecom,Social Media,Summer,16.54,4.78,8.61,3.46,3.4,39.9,9.95,21,236,115.04
+Indore,Real Estate,Print,Summer,43.58,21.89,15.31,8.87,1.31,28.0,33.18,30,97,210.49
+Kolkata,Food & Beverage,Outdoor,Festive,19.41,6.14,4.16,3.96,8.74,30.8,12.73,21,340,125.23
+Bhopal,Education,Social Media,Summer,15.55,10.48,14.54,5.04,9.95,13.5,26.83,49,106,112.56
+Surat,Food & Beverage,TV,Summer,32.8,9.61,17.41,2.98,3.56,37.7,5.56,9,416,168.43
+Indore,Real Estate,Social Media,Summer,17.09,28.44,9.35,7.91,8.57,21.2,14.99,17,436,161.85
+Ahmedabad,Fashion,Print,Monsoon,31.88,29.04,16.52,4.09,12.92,29.3,23.07,5,170,215.87
+Hyderabad,Education,TV,Winter,30.88,5.9,11.32,5.23,12.61,37.0,27.44,31,163,141.57
+Nagpur,Food & Beverage,Social Media,Festive,28.61,1.15,12.92,2.68,13.95,39.0,58.69,40,18,135.52
+Delhi,Telecom,Outdoor,Festive,19.64,21.74,10.76,9.88,5.81,33.3,48.86,38,377,189.47
+Vadodara,Automobile,Outdoor,Monsoon,27.88,12.83,9.53,3.06,5.11,12.1,44.77,43,229,112.88
+Hyderabad,FMCG,Digital,Winter,30.23,3.12,5.08,7.75,11.37,38.7,33.15,19,77,121.7
+Ahmedabad,Automobile,Social Media,Festive,27.74,20.67,6.41,4.39,6.75,25.1,50.72,36,253,175.57
+Jaipur,Real Estate,Radio,Summer,22.78,16.58,6.15,2.22,1.77,37.2,21.68,33,95,102.32
+Surat,E-Commerce,Social Media,Festive,1.72,29.43,11.48,8.04,4.6,27.0,43.12,13,220,145.55
+Bhopal,FMCG,TV,Summer,29.77,7.21,2.84,3.47,6.57,12.3,59.64,14,465,78.07
+Bhopal,Retail,TV,Monsoon,9.25,12.42,18.38,8.68,4.74,14.8,20.25,33,94,109.12
+Bhopal,Telecom,Social Media,Summer,32.49,16.51,14.55,9.17,5.32,22.0,41.09,29,33,175.61
+Nagpur,Retail,Print,Festive,38.21,23.86,8.33,8.63,4.76,31.6,50.97,43,439,274.2
+Surat,Education,Outdoor,Festive,25.52,16.69,3.59,0.54,1.1,12.7,55.12,49,309,133.38
+Nagpur,FMCG,TV,Festive,27.58,18.58,17.7,7.92,9.74,23.2,43.64,36,431,206.3
+Vadodara,Retail,Outdoor,Monsoon,47.62,7.17,16.56,4.23,9.16,13.8,18.45,44,480,201.41
+Nagpur,Retail,TV,Monsoon,42.51,25.48,14.57,8.76,9.97,32.6,20.92,10,224,228.64
+Mumbai,Food & Beverage,Digital,Winter,45.8,13.14,5.8,6.45,3.29,18.7,3.2,31,332,199.67
+Surat,Automobile,Radio,Festive,40.87,4.66,8.35,8.37,4.79,3.1,46.13,6,219,139.12
+Kolkata,Food & Beverage,TV,Summer,6.34,20.09,2.5,5.09,9.48,6.6,4.48,1,225,103.36
+Surat,FMCG,Outdoor,Monsoon,8.3,6.87,4.19,5.44,9.19,2.4,52.15,7,393,25.43
+Ahmedabad,FMCG,Digital,Festive,26.8,3.38,15.77,1.61,7.84,20.0,8.88,27,46,176.24
+Mumbai,Real Estate,TV,Festive,13.06,25.93,14.44,7.88,5.58,4.3,11.97,21,139,185.16
+Bhopal,Food & Beverage,Print,Monsoon,24.36,14.07,12.07,4.31,13.74,4.6,29.64,28,46,136.53
+Ahmedabad,Healthcare,Radio,Winter,20.32,22.6,17.97,5.1,5.43,37.6,44.8,16,168,135.64
+Ahmedabad,Automobile,TV,Monsoon,27.92,9.07,11.87,7.89,7.11,34.9,10.06,46,365,169.55
+Vadodara,FMCG,Digital,Monsoon,37.6,23.72,9.61,6.07,10.33,18.1,27.52,23,287,188.05
+Lucknow,Real Estate,Print,Summer,36.06,3.8,7.14,2.17,8.37,39.4,30.01,20,62,130.02
+Bangalore,Food & Beverage,Social Media,Summer,26.54,11.0,18.84,5.98,5.53,0.0,14.31,38,306,156.53
+Mumbai,Automobile,Digital,Winter,41.3,29.35,2.11,4.19,6.82,24.6,8.7,25,326,224.2
+Ahmedabad,Food & Beverage,Digital,Festive,22.11,23.92,18.65,4.8,12.02,24.7,50.51,28,29,188.32
+Bangalore,Retail,Print,Monsoon,44.94,15.17,16.62,0.48,4.53,18.3,31.14,5,77,180.95
+Bangalore,Real Estate,Digital,Winter,4.49,10.52,3.03,2.26,2.56,15.9,2.83,21,377,63.78
+Mumbai,Automobile,Print,Summer,47.78,26.23,11.52,2.95,5.04,18.2,48.57,18,415,204.32
+Lucknow,Fashion,TV,Monsoon,33.08,16.57,17.4,7.19,12.82,16.6,58.89,47,133,161.69
+Hyderabad,Education,Print,Festive,19.62,22.87,11.65,0.31,1.79,29.2,37.14,6,91,181.62
+Jaipur,Education,Print,Summer,10.66,22.75,18.19,4.21,14.88,5.4,31.22,29,334,137.62
+Kolkata,Automobile,Radio,Summer,24.48,1.03,18.89,9.26,8.34,7.9,52.95,19,430,88.01
+Jaipur,Food & Beverage,Print,Summer,10.53,4.22,8.74,1.3,14.78,7.2,57.25,33,440,55.01
+Surat,Real Estate,Print,Winter,9.15,19.96,7.86,5.26,14.12,10.5,45.76,1,157,89.33
+Bhopal,Education,Social Media,Festive,31.25,5.27,18.76,7.91,7.07,21.0,27.84,45,186,195.35
+Kolkata,Real Estate,TV,Monsoon,26.63,8.04,13.67,9.44,3.38,4.4,36.35,3,129,112.08
+Surat,Education,Radio,Winter,33.83,28.43,2.76,7.52,2.89,34.7,42.65,42,71,178.97
+Ahmedabad,Retail,Social Media,Winter,46.55,17.03,1.32,7.26,3.98,11.9,13.27,21,10,150.56
+Bhopal,Food & Beverage,Outdoor,Winter,27.08,22.65,11.51,8.3,10.8,6.5,27.94,35,129,159.97
+Delhi,Retail,TV,Summer,29.47,16.96,18.64,4.57,4.46,27.0,50.13,41,318,166.58
+Mumbai,Education,TV,Festive,5.39,16.8,16.96,8.1,5.45,1.5,39.97,40,330,118.29
+Kolkata,Fashion,Outdoor,Winter,36.16,3.28,13.68,0.28,7.01,24.8,25.85,3,57,119.82
+Kolkata,Fashion,Print,Monsoon,20.6,10.64,3.21,9.26,13.74,27.9,40.48,25,70,116.12
+Indore,Retail,Social Media,Festive,48.86,8.83,5.46,4.54,3.25,8.6,8.86,45,318,235.73
+Ahmedabad,Fashion,Digital,Monsoon,41.34,12.03,17.57,5.62,0.57,1.7,25.29,38,86,144.91
+Hyderabad,Education,Radio,Festive,26.6,24.05,4.06,2.7,1.37,14.5,48.0,45,91,153.66
+Bangalore,Automobile,Digital,Monsoon,7.04,11.47,5.93,7.48,13.62,3.9,14.79,20,6,85.15
+Bhopal,Retail,Outdoor,Summer,43.11,13.83,3.03,0.95,9.89,4.7,12.79,44,208,175.44
+Ahmedabad,E-Commerce,TV,Winter,40.19,12.22,13.68,8.75,4.46,10.2,57.15,45,154,162.26
+Pune,Food & Beverage,TV,Monsoon,10.04,3.26,18.91,8.32,3.07,11.8,14.17,34,297,78.62
+Lucknow,Fashion,Radio,Festive,15.47,13.51,5.74,2.32,4.77,21.2,17.13,21,408,135.36
+Bangalore,Fashion,TV,Winter,39.88,6.27,9.77,8.13,2.16,27.1,58.24,48,107,118.54
+Mumbai,FMCG,TV,Winter,10.08,6.01,12.87,7.91,14.15,23.7,44.61,23,28,65.84
+Bangalore,Healthcare,Radio,Festive,45.97,3.27,19.99,6.4,11.87,5.9,42.58,6,372,174.94
+Hyderabad,Retail,Social Media,Monsoon,21.8,11.02,2.54,3.86,7.2,6.9,51.47,13,216,70.51
+Vadodara,Telecom,Social Media,Summer,5.26,22.85,10.22,2.86,13.04,35.2,8.72,49,69,141.72
+Indore,Fashion,Radio,Summer,40.97,8.66,8.01,2.47,4.12,22.3,42.95,23,453,139.22
+Bangalore,Food & Beverage,Outdoor,Monsoon,19.3,9.71,17.38,3.32,10.9,34.8,31.21,9,213,140.74
+Mumbai,E-Commerce,TV,Winter,26.8,19.46,9.78,9.05,12.91,14.9,50.09,17,255,160.5
+Hyderabad,Fashion,TV,Winter,6.5,6.28,2.66,0.96,5.67,24.6,31.47,2,389,34.84
+Jaipur,E-Commerce,Outdoor,Winter,1.13,26.96,12.87,8.32,11.48,20.9,37.97,19,121,92.86
+Kolkata,Education,Social Media,Winter,32.26,15.85,15.53,3.62,4.78,12.8,29.71,19,120,150.59
+Vadodara,Education,Print,Monsoon,26.24,13.7,0.56,5.31,4.83,18.8,29.73,7,241,114.95
+Indore,Healthcare,Print,Winter,30.08,16.96,17.25,7.99,2.05,20.1,46.54,42,482,148.86
+Kolkata,Automobile,Print,Festive,39.89,5.4,4.13,8.87,6.88,8.0,38.46,42,109,154.89
+Lucknow,Telecom,Social Media,Winter,32.68,18.6,11.27,3.58,11.08,12.6,38.73,20,499,178.4
+Surat,FMCG,Social Media,Summer,9.56,11.21,8.61,4.73,14.13,31.7,28.12,9,263,90.87
+Vadodara,Healthcare,Outdoor,Winter,18.68,26.97,14.53,4.26,9.26,36.6,32.8,17,50,169.56
+Vadodara,Real Estate,TV,Monsoon,45.39,5.48,7.74,0.33,13.02,14.4,45.25,27,315,133.58
+Jaipur,FMCG,Outdoor,Summer,38.73,15.46,17.46,3.1,12.43,12.3,49.9,47,335,173.87
+Jaipur,Retail,Outdoor,Monsoon,28.28,18.14,14.74,4.7,3.01,7.8,42.4,2,220,127.16
+Bhopal,Food & Beverage,Social Media,Monsoon,13.53,1.48,13.13,4.23,7.54,27.1,55.6,36,474,53.83
+Nagpur,Real Estate,Print,Summer,15.8,11.23,16.03,7.27,2.2,12.9,49.58,19,452,100.22
+Bangalore,Real Estate,Digital,Monsoon,36.87,22.11,15.2,3.97,10.39,39.5,34.59,17,496,190.95
+Vadodara,Healthcare,TV,Monsoon,42.71,24.7,1.2,5.0,14.27,13.0,40.94,5,305,189.15
+Kolkata,Automobile,Social Media,Winter,33.9,9.74,8.2,4.41,2.49,15.8,55.73,39,414,113.41
+Mumbai,Healthcare,Print,Festive,40.67,24.06,18.65,7.46,11.14,24.1,37.91,18,337,286.87
+Chennai,Retail,Digital,Monsoon,38.57,29.05,2.95,8.66,9.67,32.1,49.84,7,453,192.19
+Nagpur,Fashion,Digital,Monsoon,8.34,25.78,14.87,5.41,8.96,18.8,41.95,17,28,126.83
+Chennai,Fashion,Social Media,Monsoon,21.77,3.97,19.5,7.94,6.16,16.9,34.01,39,462,103.7
+Indore,Automobile,Radio,Winter,8.5,22.32,1.52,3.11,5.65,39.8,16.03,36,39,130.61
+Hyderabad,Retail,TV,Festive,12.53,9.93,13.8,5.51,1.16,0.4,26.71,40,28,103.77
+Kolkata,Automobile,Digital,Summer,43.59,29.66,9.63,3.58,3.66,35.8,58.13,45,32,192.62
+Kolkata,E-Commerce,Social Media,Winter,24.17,14.82,11.79,4.26,0.72,6.0,40.15,4,488,116.34
+Nagpur,Fashion,Social Media,Winter,27.23,4.11,2.16,7.38,8.93,31.4,34.73,38,468,108.43
+Vadodara,Real Estate,Print,Festive,9.74,21.89,1.34,8.84,2.03,24.7,56.11,25,492,92.34
+Lucknow,Telecom,Radio,Festive,16.3,10.03,13.5,1.39,13.16,13.7,36.02,5,20,118.99
+Nagpur,Food & Beverage,TV,Winter,12.28,29.91,16.55,6.42,8.09,35.0,32.51,30,63,173.2
+Chennai,Retail,Outdoor,Summer,11.1,29.4,15.75,5.91,10.65,0.5,46.04,12,469,147.48
+Nagpur,FMCG,Print,Winter,32.26,19.86,11.1,1.36,6.46,9.1,43.33,4,247,138.23
+Kolkata,Automobile,Digital,Festive,13.59,4.33,2.45,2.28,8.63,22.7,13.2,24,442,106.03
+Lucknow,Food & Beverage,Digital,Summer,31.97,20.76,13.92,3.25,14.17,14.1,29.34,29,211,180.34
+Bangalore,FMCG,Print,Festive,3.86,3.24,5.22,1.84,1.7,24.4,29.41,9,404,59.06
+Pune,Food & Beverage,Social Media,Summer,7.95,1.37,18.27,2.59,4.18,1.0,23.94,4,275,38.94
+Bhopal,Telecom,Digital,Monsoon,14.45,24.78,16.85,2.82,11.81,4.7,32.0,24,253,137.1
+Delhi,FMCG,Radio,Festive,30.26,6.69,14.33,3.49,1.93,5.1,25.96,14,486,143.49
+Jaipur,Healthcare,TV,Festive,34.12,11.68,19.0,7.54,1.6,7.6,13.56,5,271,186.78
+Nagpur,Education,Radio,Winter,22.69,29.22,1.11,5.8,5.74,18.4,25.92,18,197,159.02
+Indore,Healthcare,Digital,Festive,22.84,10.44,14.86,9.87,1.84,30.1,6.19,42,339,218.76
+Surat,Fashion,Outdoor,Festive,36.5,9.25,6.94,4.26,8.98,36.2,35.4,19,222,185.1
+Hyderabad,Education,TV,Monsoon,1.78,27.59,18.17,7.59,3.78,33.4,51.51,12,119,99.25
+Pune,Healthcare,TV,Festive,17.71,3.77,5.7,8.74,13.49,7.9,44.07,18,72,86.41
+Bhopal,Education,Print,Monsoon,41.12,22.91,14.63,6.85,11.86,17.6,22.9,17,303,222.09
+Bhopal,Education,Print,Monsoon,30.56,29.65,17.61,4.24,10.65,8.0,7.05,30,329,221.16
+Bhopal,Real Estate,Outdoor,Monsoon,17.52,27.09,1.31,7.59,9.45,10.6,13.72,24,487,171.26
+Bhopal,Automobile,Social Media,Monsoon,45.37,19.72,8.25,2.2,13.02,20.1,33.64,11,401,189.12
+Chennai,Automobile,TV,Summer,38.86,9.76,15.37,3.41,3.73,2.7,14.01,35,398,163.1
+Indore,Real Estate,Outdoor,Winter,13.98,8.0,9.37,5.56,13.16,8.7,33.55,23,79,83.31
+Indore,Food & Beverage,Print,Summer,32.62,24.67,5.71,5.84,11.95,37.4,15.43,17,470,209.09
+Lucknow,E-Commerce,Print,Festive,30.19,26.45,4.79,0.42,11.35,18.6,51.24,1,486,201.31
+Jaipur,Food & Beverage,TV,Summer,20.66,16.0,3.06,9.46,8.64,17.8,25.04,15,107,106.79
+Kolkata,FMCG,Radio,Summer,18.98,7.71,17.21,7.03,4.07,0.6,16.24,32,301,134.62
+Bhopal,FMCG,Digital,Festive,17.83,3.83,11.72,5.06,6.64,9.9,49.11,9,494,81.32
+Surat,Education,Print,Festive,31.24,3.07,1.99,9.34,12.01,34.7,21.88,15,182,160.08
+Kolkata,Healthcare,Social Media,Festive,22.68,21.71,7.96,4.5,0.96,6.6,8.47,28,219,201.36
+Indore,Healthcare,Social Media,Summer,41.76,12.89,7.67,9.81,11.84,16.6,35.08,24,459,168.84
+Mumbai,Automobile,Print,Summer,33.81,27.21,4.04,5.22,3.98,0.6,35.73,35,319,171.38
+Mumbai,Retail,Radio,Festive,4.43,22.32,8.99,1.32,2.59,19.1,43.45,22,43,92.85
+Surat,Food & Beverage,Radio,Winter,32.37,6.14,6.98,7.7,2.18,0.8,15.93,27,263,125.3
+Lucknow,Fashion,Outdoor,Winter,14.29,18.61,7.17,6.85,0.9,32.8,27.74,19,208,111.55
+Indore,Telecom,Social Media,Monsoon,30.05,13.35,14.91,7.78,8.09,33.0,18.38,45,11,173.23
+Surat,Healthcare,Outdoor,Festive,34.33,17.53,4.85,9.52,3.66,31.5,6.7,12,53,213.44
+Chennai,Telecom,Social Media,Monsoon,12.31,22.27,13.02,7.81,14.85,11.3,52.84,20,30,104.43
+Nagpur,Education,Digital,Winter,23.39,24.28,11.63,6.19,8.83,33.5,44.27,1,165,136.83
+Surat,Telecom,Digital,Monsoon,10.33,25.39,11.58,8.6,2.5,21.7,19.48,21,361,132.65
+Bangalore,Fashion,TV,Festive,3.56,7.99,13.43,6.8,10.49,15.0,36.76,49,180,55.98
+Kolkata,Real Estate,Outdoor,Festive,19.55,1.42,11.19,4.2,13.52,25.0,13.67,45,83,135.2
+Pune,Fashion,Print,Festive,18.78,22.31,17.65,8.88,11.31,0.5,53.63,1,6,149.8
+Ahmedabad,Telecom,Outdoor,Summer,49.78,3.64,13.67,2.37,1.61,5.7,8.66,10,493,170.47
+Lucknow,Fashion,Print,Monsoon,22.87,9.79,11.17,7.2,13.49,29.7,2.22,47,387,162.05
+Surat,E-Commerce,Radio,Winter,17.34,0.61,16.68,8.84,12.01,9.8,31.12,32,459,104.81
+Indore,Education,Outdoor,Winter,29.44,20.61,12.32,7.37,2.8,23.9,35.82,39,420,193.98
+Hyderabad,Food & Beverage,Radio,Winter,5.35,5.43,6.18,7.03,1.25,15.4,35.58,22,136,47.4
+Mumbai,Real Estate,Digital,Summer,48.12,19.83,4.54,7.58,8.58,34.2,5.16,18,280,223.92
+Bangalore,Healthcare,Digital,Summer,32.11,29.76,3.47,4.76,2.76,38.1,20.21,48,121,197.6
+Jaipur,FMCG,TV,Festive,37.99,2.64,18.04,8.77,12.6,35.3,30.95,46,168,224.36
+Bhopal,Food & Beverage,Outdoor,Winter,9.35,2.77,14.35,2.19,5.7,10.8,14.56,32,292,54.6
+Ahmedabad,FMCG,Radio,Summer,21.06,10.54,18.78,1.45,13.74,7.8,52.61,27,32,97.78
+Vadodara,Education,Print,Festive,21.71,26.06,12.26,3.0,8.7,19.0,7.05,28,337,235.17
+Lucknow,Real Estate,Digital,Winter,41.27,6.86,9.73,5.41,3.15,0.3,30.27,18,5,134.82
+Pune,Automobile,Digital,Monsoon,1.06,11.13,1.66,5.2,2.52,1.0,42.1,39,192,35.25
+Ahmedabad,Healthcare,Print,Festive,15.74,2.52,13.6,8.24,8.86,22.1,17.18,49,60,119.53
+Surat,E-Commerce,Radio,Summer,49.08,23.01,11.85,4.16,11.55,20.8,38.21,29,39,212.69
+Chennai,Automobile,Radio,Summer,24.27,12.55,19.81,4.95,11.83,39.8,50.1,18,116,139.18
+Mumbai,Education,Outdoor,Festive,19.74,22.9,5.16,0.33,4.5,8.1,13.04,44,290,176.99
+Indore,Food & Beverage,Outdoor,Festive,6.87,27.16,10.85,4.22,3.46,10.3,55.2,8,314,136.54
+Mumbai,E-Commerce,Social Media,Summer,48.73,7.37,13.19,6.55,0.74,4.5,34.11,31,40,162.31
+Jaipur,Fashion,Social Media,Monsoon,1.98,24.32,13.07,0.35,10.35,36.7,19.36,34,443,133.92
+Chennai,Telecom,TV,Winter,37.12,2.24,11.45,2.95,1.61,31.1,26.99,7,221,125.96
+Bhopal,E-Commerce,Digital,Monsoon,38.66,27.02,15.65,2.24,6.6,32.9,20.11,36,84,219.52
+Indore,Education,Outdoor,Festive,12.94,19.7,4.5,0.61,9.22,36.1,44.06,18,318,127.63
+Kolkata,Retail,Radio,Monsoon,33.91,26.29,14.65,4.9,14.09,21.0,48.19,38,87,188.27
+Delhi,Telecom,Print,Summer,5.55,0.51,12.58,1.98,5.02,18.0,50.31,9,69,20.11
+Bangalore,FMCG,Radio,Festive,13.6,5.49,17.97,7.48,4.12,13.2,59.17,9,329,78.52
+Mumbai,Healthcare,Digital,Winter,39.61,12.0,17.02,8.51,9.99,23.6,47.89,46,132,166.75
+Hyderabad,FMCG,Social Media,Summer,43.37,11.7,6.65,5.55,9.48,18.2,36.88,8,311,166.14
+Mumbai,E-Commerce,Radio,Summer,30.82,7.19,5.89,9.82,5.32,18.1,21.67,35,26,124.65
+Ahmedabad,FMCG,TV,Winter,25.84,11.76,19.64,4.61,13.96,37.5,33.59,18,220,145.45
+Mumbai,Education,Digital,Winter,8.81,4.3,10.78,5.23,12.75,39.4,4.38,5,111,94.08
+Lucknow,Fashion,Social Media,Monsoon,4.09,12.68,18.18,9.89,3.75,31.9,45.2,14,113,66.04
+Mumbai,Food & Beverage,Print,Festive,6.76,24.17,3.7,2.47,3.97,30.3,27.87,28,376,122.32
+Delhi,Healthcare,Social Media,Winter,12.14,14.63,13.03,9.44,7.93,27.2,3.16,30,361,139.98
+Delhi,FMCG,TV,Winter,17.74,1.03,16.29,0.62,11.72,6.6,5.63,4,185,83.68
+Bhopal,FMCG,Digital,Festive,19.66,12.93,18.97,4.57,1.14,2.4,24.47,39,360,156.41
+Pune,E-Commerce,Print,Winter,17.97,1.3,7.08,0.89,10.55,27.6,35.84,20,168,57.82
+Kolkata,Food & Beverage,TV,Winter,12.71,29.0,14.64,7.35,9.9,29.2,28.92,25,72,172.46
+Hyderabad,Automobile,Social Media,Monsoon,25.98,4.26,11.01,6.16,3.86,1.9,37.91,28,296,83.36
+Mumbai,FMCG,TV,Summer,41.44,21.38,1.68,7.13,10.38,37.1,29.86,12,184,187.47
+Mumbai,Education,Digital,Summer,14.71,29.2,13.95,3.87,14.13,3.6,40.38,2,185,143.7
+Bangalore,Retail,Outdoor,Summer,47.18,24.87,13.96,3.82,1.18,11.4,14.71,43,470,221.2
+Indore,Healthcare,TV,Summer,43.79,21.13,18.65,0.64,5.13,26.9,8.54,14,438,212.71
+Delhi,FMCG,TV,Winter,8.93,25.26,10.2,3.63,6.85,6.8,36.59,22,468,119.15
+Hyderabad,Education,Social Media,Festive,39.53,29.46,4.99,9.31,13.54,2.2,30.11,31,173,267.24
+Bhopal,Education,Social Media,Festive,29.15,18.83,1.37,3.92,14.45,13.2,3.56,23,406,211.17
+Jaipur,Healthcare,Print,Monsoon,28.76,17.0,8.61,8.35,6.94,30.6,24.07,48,26,169.49
+Pune,Automobile,Social Media,Monsoon,20.16,19.03,6.39,8.45,11.38,16.5,8.16,20,70,140.18
+Kolkata,Education,Radio,Winter,25.56,16.21,15.34,3.86,8.21,26.1,32.82,38,25,145.2
+Chennai,Retail,Digital,Festive,20.46,19.24,7.41,6.39,8.3,23.2,24.96,4,104,158.97
+Kolkata,Education,Digital,Festive,27.45,13.77,19.01,1.13,4.53,0.9,37.56,15,388,169.93
+Lucknow,Education,Outdoor,Summer,31.77,6.94,19.27,1.22,3.65,39.5,48.72,24,304,142.12
+Ahmedabad,Education,Outdoor,Winter,34.04,4.05,12.61,0.68,4.68,1.7,19.38,25,107,98.84
+Lucknow,Fashion,Digital,Winter,27.09,2.52,18.61,5.89,8.57,38.7,57.8,1,51,94.93
+Mumbai,Fashion,Outdoor,Summer,36.35,8.27,15.34,4.38,0.92,22.0,33.07,7,43,140.25
+Vadodara,Automobile,Print,Winter,7.92,1.86,11.16,5.57,13.66,38.5,37.86,31,289,63.91
+Pune,FMCG,Social Media,Winter,11.39,17.23,4.02,5.31,2.77,4.6,41.48,12,314,62.51
+Ahmedabad,Education,Digital,Monsoon,41.12,8.87,9.44,3.63,3.69,19.6,40.67,42,94,147.58
+Hyderabad,Food & Beverage,Outdoor,Festive,16.8,24.82,11.44,6.84,8.02,6.8,31.64,5,89,183.91
+Chennai,FMCG,Digital,Winter,2.12,2.69,17.35,7.63,10.8,2.0,26.87,44,277,67.13
+Delhi,Automobile,Radio,Monsoon,8.54,7.18,9.89,0.34,1.89,24.7,5.12,42,340,91.65
+Pune,Real Estate,TV,Festive,11.96,22.04,18.0,2.23,5.11,8.3,3.28,38,192,193.87
+Pune,FMCG,Social Media,Summer,47.91,18.16,13.65,7.19,14.55,23.5,22.76,12,163,210.79
+Lucknow,FMCG,Digital,Monsoon,29.08,2.4,3.17,3.99,4.3,4.5,21.35,39,247,104.27
+Vadodara,Telecom,TV,Monsoon,46.7,26.38,19.9,6.69,5.04,13.3,24.49,18,77,240.58
+Mumbai,E-Commerce,Outdoor,Festive,29.18,26.38,10.78,3.6,12.63,31.3,10.03,2,483,251.58
+Surat,Telecom,TV,Summer,24.49,10.25,8.14,4.03,1.23,17.5,44.81,10,466,98.56
+Bhopal,Retail,Social Media,Monsoon,16.37,10.54,13.35,1.76,7.24,25.1,51.7,15,53,86.3
+Lucknow,Fashion,Digital,Winter,30.71,29.68,2.62,2.73,6.0,25.9,56.45,30,105,167.39
+Pune,Fashion,Radio,Winter,7.82,18.97,12.91,6.13,5.09,33.8,30.56,44,6,113.09
+Nagpur,E-Commerce,Outdoor,Winter,45.01,16.17,10.22,4.44,4.64,13.0,42.65,17,248,160.24
+Bangalore,Healthcare,Digital,Summer,41.64,25.23,8.43,7.79,1.82,27.5,51.62,4,180,174.64
+Chennai,Healthcare,Social Media,Monsoon,16.56,8.92,19.08,8.56,5.06,38.5,26.26,7,242,106.52
+Bhopal,Automobile,Outdoor,Winter,47.69,13.16,10.69,5.51,1.12,29.2,19.95,41,402,200.06
+Lucknow,E-Commerce,Print,Summer,41.43,8.4,4.77,7.63,11.82,19.6,56.33,31,63,130.57
+Chennai,FMCG,TV,Winter,33.65,23.78,9.45,3.21,6.27,25.2,31.91,39,357,207.74
+Bangalore,Healthcare,Social Media,Festive,6.97,17.41,18.43,4.27,6.94,29.6,30.84,34,103,157.6
+Jaipur,Education,Print,Monsoon,24.43,19.94,3.93,7.19,13.46,24.5,12.35,6,446,172.92
+Bangalore,Food & Beverage,Digital,Monsoon,25.8,7.94,4.67,3.98,10.04,0.7,8.27,38,363,128.46
+Vadodara,FMCG,Radio,Summer,12.4,7.0,0.75,5.97,0.62,7.8,50.84,45,446,41.81
+Bangalore,Retail,Outdoor,Summer,4.92,14.91,0.78,2.02,14.18,32.4,37.62,34,499,80.77
+Chennai,Education,TV,Monsoon,39.06,22.26,16.67,6.08,3.94,10.9,20.9,44,439,209.11
+Kolkata,Education,Outdoor,Winter,6.98,15.99,14.78,8.64,2.06,29.3,13.12,15,472,118.68
+Chennai,E-Commerce,Digital,Winter,30.12,1.46,7.42,8.71,11.64,14.9,34.22,14,6,101.77
+Surat,Automobile,Outdoor,Festive,46.89,26.12,14.12,7.3,7.76,20.9,35.87,6,247,288.44
+Mumbai,Retail,TV,Winter,43.93,2.41,8.21,7.51,6.79,2.7,14.01,37,301,149.38
+Ahmedabad,Healthcare,Digital,Summer,14.61,28.7,19.08,5.67,4.12,7.2,51.38,32,215,132.31
+Kolkata,E-Commerce,Outdoor,Summer,42.72,1.24,19.36,5.93,8.44,38.3,6.89,3,127,158.77
+Delhi,Healthcare,Radio,Winter,1.02,20.99,8.16,1.51,4.48,35.6,22.65,3,233,102.72
+Ahmedabad,E-Commerce,Social Media,Summer,1.87,2.93,17.16,4.55,13.57,26.1,41.46,22,86,70.3
+Mumbai,E-Commerce,Digital,Monsoon,30.53,27.36,15.58,4.62,3.62,18.4,17.9,22,148,207.17
+Lucknow,E-Commerce,Social Media,Monsoon,18.88,14.2,6.54,9.59,13.32,27.0,50.01,10,392,96.93
+Bhopal,Automobile,Digital,Winter,19.94,4.56,5.02,4.42,8.61,24.7,44.91,3,144,73.88
+Surat,E-Commerce,Radio,Monsoon,28.66,10.55,9.44,5.58,12.51,22.7,47.76,12,33,125.69
+Surat,Real Estate,Social Media,Monsoon,10.4,5.36,15.74,5.43,10.84,2.4,8.91,29,395,90.77
+Delhi,Food & Beverage,Print,Festive,11.38,5.53,19.22,6.44,10.6,25.3,10.15,48,274,159.03
+Kolkata,Healthcare,TV,Festive,24.75,28.47,15.39,7.53,5.2,30.8,18.62,17,251,247.26
+Vadodara,FMCG,Print,Monsoon,37.96,13.63,17.18,2.41,3.89,39.8,32.05,7,16,180.61
+Indore,Telecom,Outdoor,Winter,31.36,23.77,12.26,5.38,3.56,0.4,45.38,13,359,156.38
+Jaipur,Retail,Radio,Festive,15.57,19.37,16.79,8.29,12.93,29.2,50.52,2,393,155.35
+Bangalore,Fashion,Print,Summer,22.09,20.45,15.8,4.74,12.4,22.9,42.85,4,341,151.78
+Kolkata,Automobile,Digital,Summer,9.36,4.38,7.85,2.93,6.89,17.4,55.86,10,110,39.31
+Bhopal,FMCG,Outdoor,Summer,4.66,7.41,11.26,6.62,2.42,5.1,44.85,39,36,41.37
+Jaipur,Education,Outdoor,Winter,39.35,23.71,16.19,8.27,6.04,16.4,19.76,24,78,215.25
+Surat,Real Estate,Print,Monsoon,14.0,29.14,1.4,0.82,9.48,14.2,17.37,17,175,137.82
+Chennai,Fashion,Print,Summer,9.71,8.25,16.26,7.81,7.09,12.1,42.38,6,341,59.16
+Bhopal,Telecom,Radio,Winter,34.89,8.51,3.97,8.25,11.81,29.2,13.19,19,73,150.82
+Mumbai,FMCG,TV,Festive,31.28,14.45,10.54,4.72,14.97,28.0,7.38,5,305,235.26
+Delhi,Fashion,Print,Monsoon,32.03,29.52,16.26,9.84,3.27,23.6,32.87,32,366,207.93
+Mumbai,FMCG,Print,Festive,12.22,8.43,5.45,7.91,7.16,37.5,49.66,10,141,95.38
+Indore,Real Estate,Social Media,Winter,12.4,12.51,5.29,7.78,6.75,14.0,7.88,9,437,100.56
+Bhopal,Telecom,Digital,Summer,11.82,26.8,8.35,7.53,4.92,9.8,47.93,27,421,115.72
+Hyderabad,Education,Social Media,Summer,9.51,0.59,17.95,1.68,3.37,26.2,49.07,13,488,54.01
+Hyderabad,E-Commerce,Social Media,Winter,33.13,1.67,0.51,2.33,1.45,8.0,29.97,19,104,82.69
+Lucknow,Healthcare,Outdoor,Summer,42.55,18.32,18.08,4.75,13.36,12.6,5.32,21,150,216.46
+Kolkata,Education,TV,Monsoon,36.49,27.27,3.5,2.79,6.59,9.0,12.13,24,13,201.58
+Surat,E-Commerce,Digital,Winter,39.81,7.55,19.81,4.27,7.7,2.8,43.03,38,66,138.21
+Surat,Automobile,Radio,Festive,20.84,14.35,19.12,8.91,13.8,33.1,43.28,4,189,167.62
+Bangalore,Food & Beverage,Radio,Winter,33.05,13.79,10.15,8.28,11.76,10.2,54.1,24,33,103.0
+Bangalore,Retail,Print,Monsoon,18.36,14.45,10.5,6.37,2.39,18.9,35.8,35,385,107.71
+Bangalore,Retail,Print,Monsoon,26.75,18.86,9.89,8.61,8.7,1.7,9.2,3,118,167.18
+Chennai,Healthcare,Radio,Winter,24.6,14.36,12.89,7.88,6.91,28.0,9.04,4,466,136.65
+Ahmedabad,Telecom,Print,Winter,9.67,13.7,2.27,4.4,12.06,13.2,43.83,37,413,68.93
+Pune,Real Estate,TV,Summer,19.97,14.49,1.14,2.17,11.0,29.8,12.66,40,147,134.58
+Ahmedabad,Telecom,Social Media,Monsoon,48.23,17.93,1.63,5.24,10.51,16.5,21.05,48,394,185.9
+Mumbai,Real Estate,Print,Winter,13.18,16.34,9.17,7.42,5.44,7.8,30.26,35,124,97.24
+Ahmedabad,Telecom,Outdoor,Winter,7.56,25.7,5.87,4.48,12.17,20.5,3.44,31,174,155.58
+Chennai,Food & Beverage,Print,Monsoon,21.51,1.96,12.63,6.73,1.26,5.2,16.43,44,161,113.15
+Lucknow,Automobile,Digital,Winter,39.73,25.08,19.85,1.12,2.81,17.6,25.66,25,339,214.29
+Mumbai,Automobile,TV,Summer,29.53,25.4,8.03,7.53,5.37,12.7,18.22,40,353,177.61
+Ahmedabad,E-Commerce,Digital,Monsoon,34.37,8.9,11.69,8.16,1.61,36.5,9.91,13,264,150.15
+Chennai,Fashion,Digital,Summer,10.3,14.15,8.6,7.13,3.91,2.4,44.22,4,86,63.12
+Pune,Automobile,Outdoor,Summer,31.33,13.44,17.02,9.68,12.54,27.8,49.16,46,246,165.0
+Ahmedabad,Automobile,TV,Summer,16.85,6.95,18.09,8.3,14.25,7.3,16.93,14,445,137.3
+Chennai,Education,TV,Summer,41.88,12.21,17.61,9.05,4.92,12.8,46.92,13,437,173.91
+Indore,Education,TV,Monsoon,31.84,1.81,19.5,9.35,4.34,16.6,24.36,27,176,130.11
+Bangalore,E-Commerce,TV,Summer,10.74,8.7,1.04,8.05,4.56,36.3,31.39,6,235,64.22
+Indore,Fashion,TV,Summer,4.17,24.59,16.88,6.81,4.53,9.7,51.65,17,212,124.78
+Surat,Healthcare,Outdoor,Winter,3.09,8.89,15.16,0.26,1.02,3.7,45.5,36,79,42.71
+Bangalore,Education,Print,Monsoon,19.2,24.64,4.96,4.77,13.94,12.7,48.7,40,274,129.04
+Surat,Healthcare,Digital,Monsoon,14.03,16.18,19.15,5.8,3.6,4.2,9.94,49,391,136.88
+Nagpur,FMCG,TV,Festive,32.66,26.46,3.39,3.18,6.59,5.1,6.04,35,118,232.71
+Delhi,Education,Print,Monsoon,25.47,17.46,13.75,3.32,0.64,23.0,53.82,17,66,91.59
+Indore,Food & Beverage,Print,Monsoon,14.03,1.38,4.89,9.62,12.94,2.4,24.49,41,366,76.05
+Delhi,Fashion,Digital,Festive,8.31,20.42,8.91,8.94,11.1,1.2,18.7,2,324,166.67
+Delhi,E-Commerce,Outdoor,Monsoon,7.23,1.82,14.52,8.52,14.23,28.6,44.03,13,106,39.7
+Pune,FMCG,Radio,Monsoon,43.37,13.79,11.48,4.18,11.83,14.5,50.51,2,433,162.05
+Bangalore,Fashion,Radio,Monsoon,12.93,27.92,8.84,0.33,5.05,5.0,52.02,28,366,105.27
+Nagpur,Food & Beverage,Print,Monsoon,32.93,5.37,6.86,0.99,4.09,10.1,20.33,43,214,125.8
+Surat,Fashion,Social Media,Festive,40.72,12.0,16.87,3.26,10.62,25.7,51.43,26,446,215.56
+Chennai,Food & Beverage,Social Media,Monsoon,31.09,22.03,3.3,0.35,5.78,11.0,4.37,22,259,156.23
+Mumbai,Food & Beverage,Digital,Monsoon,43.12,26.53,8.89,0.37,8.71,19.8,4.88,47,24,222.31
+Chennai,Healthcare,Radio,Festive,20.23,20.29,18.12,9.18,0.59,4.9,38.16,43,62,164.15
+Mumbai,Telecom,Print,Winter,47.85,8.12,16.99,7.12,1.4,23.5,5.66,3,116,202.16
+Indore,FMCG,Outdoor,Summer,7.52,20.4,8.32,3.23,8.26,12.6,20.83,35,477,128.23
+Hyderabad,Fashion,Radio,Winter,6.01,9.25,15.38,1.5,8.71,25.1,41.02,12,317,64.36
+Chennai,Real Estate,Print,Festive,33.28,21.69,16.55,5.21,11.4,32.3,21.56,24,490,286.21
+Ahmedabad,FMCG,Print,Summer,47.2,28.64,17.83,0.25,2.41,24.5,12.42,5,465,245.19
+Ahmedabad,Telecom,TV,Festive,40.64,21.78,11.12,9.4,7.94,11.8,18.32,20,200,260.68
+Kolkata,FMCG,Outdoor,Festive,4.74,25.95,4.49,4.27,3.32,10.2,28.54,39,379,138.85
+Bangalore,Automobile,TV,Monsoon,14.69,0.56,5.48,4.14,1.85,13.1,29.57,39,466,59.75
+Mumbai,Real Estate,Digital,Summer,46.59,21.67,6.27,4.03,6.45,6.6,47.41,13,357,173.52
+Mumbai,Telecom,TV,Monsoon,13.4,24.97,12.08,0.88,2.87,7.2,45.51,41,96,112.48
+Bhopal,Healthcare,TV,Summer,39.28,1.7,1.14,6.46,3.72,31.6,28.5,45,56,131.43
+Lucknow,Fashion,Radio,Festive,41.43,26.21,12.9,7.38,5.1,15.4,51.05,12,297,250.58
+Bangalore,Retail,Social Media,Festive,25.28,8.07,7.6,6.83,4.26,17.4,8.63,13,12,152.25
+Pune,Telecom,Print,Winter,19.93,20.13,6.26,1.56,1.77,23.8,16.81,10,304,135.76
+Kolkata,E-Commerce,Outdoor,Summer,23.06,24.11,17.65,5.87,1.8,23.6,50.02,33,102,154.88
+Pune,Fashion,TV,Monsoon,12.12,20.05,9.47,5.78,3.3,2.7,23.92,40,240,112.78
+Indore,Telecom,Outdoor,Winter,44.58,3.22,2.35,8.71,1.23,33.3,58.91,16,393,112.26
+Indore,Automobile,Social Media,Winter,23.08,18.09,16.62,3.92,9.58,7.1,29.04,45,378,155.59
+Pune,Retail,Social Media,Winter,44.24,16.71,1.43,3.84,4.67,28.9,47.93,35,73,144.45
+Pune,Automobile,TV,Monsoon,6.18,27.06,14.67,6.26,4.56,30.9,25.33,3,419,132.73
+Nagpur,Retail,Digital,Winter,49.43,12.43,15.59,6.4,5.31,28.6,26.65,5,49,167.77
+Bangalore,E-Commerce,TV,Monsoon,22.72,9.97,7.38,4.8,10.11,23.2,24.21,26,141,100.81
+Pune,Fashion,Radio,Winter,3.34,22.62,16.58,4.54,13.12,0.6,43.71,11,238,76.49
+Ahmedabad,Healthcare,Print,Monsoon,2.86,12.67,10.56,5.04,11.51,14.4,33.76,7,36,73.34
+Lucknow,Automobile,Digital,Festive,37.56,19.56,9.53,8.64,11.05,24.2,56.74,10,293,213.83
+Lucknow,Automobile,TV,Festive,33.29,19.57,1.39,4.72,7.52,15.5,16.55,42,130,201.31
+Delhi,Food & Beverage,Outdoor,Festive,40.3,26.7,6.16,9.41,10.56,34.5,7.83,34,71,311.6
+Hyderabad,Retail,Digital,Festive,6.16,18.16,18.65,5.14,8.52,12.4,24.81,3,34,144.35
+Indore,Education,Digital,Festive,2.74,15.31,8.14,9.5,3.64,11.7,37.77,8,118,83.64
+Mumbai,Fashion,TV,Winter,25.92,4.6,11.16,8.36,3.52,10.6,51.93,31,208,83.25
+Bhopal,Retail,Digital,Winter,19.99,3.91,10.87,3.75,4.8,13.3,22.08,11,33,82.79
+Vadodara,Food & Beverage,Outdoor,Winter,23.64,5.05,12.01,8.66,13.71,22.3,39.92,45,135,121.81
+Mumbai,FMCG,Social Media,Monsoon,49.59,5.57,1.7,1.28,8.44,28.3,22.31,7,478,157.91
+Hyderabad,Retail,Digital,Monsoon,48.57,19.32,7.56,9.27,11.14,26.5,37.8,45,189,213.95
+Bhopal,Healthcare,Social Media,Monsoon,47.17,22.36,14.6,6.39,5.53,32.3,53.32,2,257,196.59
+Nagpur,Fashion,Outdoor,Monsoon,39.41,16.13,4.41,0.73,6.41,35.4,15.42,6,290,158.78
+Bangalore,Food & Beverage,TV,Festive,18.39,24.96,4.47,6.51,2.32,32.6,25.45,41,397,210.86
+Chennai,FMCG,Print,Festive,21.19,29.74,0.7,9.75,2.98,0.8,59.61,32,414,192.06
+Bangalore,Real Estate,Digital,Festive,27.93,24.69,9.03,0.88,12.5,29.4,52.38,20,390,196.53
+Mumbai,Food & Beverage,Print,Summer,41.7,21.0,17.71,5.64,8.98,8.3,34.75,34,66,207.73
+Mumbai,Real Estate,Outdoor,Winter,4.37,16.21,1.51,7.53,5.39,5.3,31.96,16,7,49.42
+Bhopal,Fashion,Digital,Monsoon,21.79,13.74,4.23,8.14,12.14,25.5,18.51,25,434,140.2
+Bhopal,Automobile,Social Media,Monsoon,5.05,2.99,6.55,4.26,4.07,12.8,32.0,12,72,41.48
+Indore,Food & Beverage,Radio,Festive,26.22,12.28,14.77,2.2,14.65,2.3,51.19,7,29,132.6
+Nagpur,E-Commerce,Print,Monsoon,45.05,27.35,12.99,0.61,5.5,5.5,41.74,39,183,205.94
+Indore,Real Estate,Digital,Monsoon,39.34,24.34,8.61,5.88,5.39,0.0,18.82,17,145,171.56
+Hyderabad,Healthcare,Print,Winter,12.16,6.87,15.3,4.64,5.02,36.1,13.68,45,235,103.29
+Pune,E-Commerce,Digital,Festive,48.82,14.26,12.39,9.5,2.27,1.0,17.38,11,304,224.32
+Bangalore,Telecom,TV,Winter,33.7,24.59,17.97,0.79,2.11,8.4,11.85,6,167,192.45
+Bhopal,Telecom,Social Media,Summer,1.51,2.49,16.45,6.92,9.9,16.7,7.55,23,315,78.55
+Surat,FMCG,Print,Summer,13.52,11.93,5.43,0.44,13.19,14.3,26.31,27,475,95.49
+Hyderabad,Automobile,Radio,Summer,13.77,25.63,5.79,1.88,11.96,36.5,8.57,46,397,172.22
+Ahmedabad,Fashion,Radio,Festive,4.39,12.41,2.94,4.65,2.55,1.6,11.97,6,134,68.6
+Nagpur,Food & Beverage,Outdoor,Monsoon,48.03,2.79,7.07,4.66,8.41,20.5,33.74,38,449,164.85
+Mumbai,Education,Digital,Festive,24.43,16.5,19.99,6.92,2.03,27.2,11.55,2,250,209.52
+Indore,Healthcare,Print,Festive,44.89,25.92,8.41,9.12,1.16,37.3,5.71,22,301,285.94
+Hyderabad,Real Estate,Outdoor,Monsoon,16.79,17.91,4.8,6.46,10.02,24.8,20.41,20,176,136.38
+Vadodara,Fashion,Print,Winter,7.14,7.18,15.37,9.54,8.26,32.2,14.78,25,68,91.14
+Bangalore,E-Commerce,Digital,Summer,24.24,11.84,11.08,8.84,1.69,3.3,31.89,15,35,92.24
+Bhopal,Telecom,Radio,Winter,6.58,13.78,3.42,5.93,1.01,15.4,7.94,49,496,91.64
+Mumbai,Healthcare,TV,Summer,24.81,17.59,7.92,8.37,14.85,15.0,45.6,29,51,114.58
+Chennai,Education,Radio,Festive,46.09,22.9,8.58,6.5,0.94,35.5,54.56,8,134,222.44
+Vadodara,Food & Beverage,Outdoor,Summer,26.52,3.42,15.2,0.97,6.95,6.1,45.12,37,356,95.27
+Nagpur,FMCG,Social Media,Festive,31.21,26.74,0.9,7.46,7.82,6.1,32.9,49,470,233.4
+Hyderabad,Education,TV,Winter,8.68,0.86,5.75,1.13,2.2,13.1,51.92,33,337,21.39
+Kolkata,Healthcare,Outdoor,Festive,3.14,11.42,10.59,6.02,2.95,2.2,42.31,22,114,56.83
+Mumbai,Education,Digital,Winter,6.43,1.31,5.74,7.09,5.6,7.3,2.61,47,73,52.62
+Bangalore,Healthcare,TV,Monsoon,30.33,12.09,12.75,0.85,11.54,38.6,24.86,5,62,147.53
+Delhi,Healthcare,Outdoor,Monsoon,5.66,16.01,9.9,2.46,7.85,17.1,51.36,39,110,65.9
+Surat,Retail,Digital,Monsoon,19.42,15.59,7.55,9.17,9.75,25.3,22.06,18,304,117.74
+Jaipur,Real Estate,Radio,Festive,27.95,5.39,19.01,6.24,14.79,29.0,4.04,38,334,208.22
+Vadodara,Telecom,Social Media,Monsoon,20.04,19.55,12.83,2.61,11.64,14.7,45.28,37,260,140.89
+Pune,Retail,Digital,Summer,9.02,1.82,3.03,6.97,6.8,5.9,48.52,30,316,43.02
+Jaipur,Food & Beverage,Print,Winter,14.42,22.98,11.42,6.05,6.97,8.3,11.31,31,175,150.95
+Bangalore,Retail,Digital,Winter,46.49,28.43,15.72,5.12,9.47,12.5,33.17,10,387,247.47
+Ahmedabad,Automobile,Digital,Summer,34.12,10.52,14.32,9.77,10.15,25.4,13.13,15,477,177.38
+Indore,Automobile,Social Media,Festive,25.31,15.76,3.86,6.9,7.76,15.9,43.72,42,166,180.54
+Ahmedabad,Telecom,Print,Festive,1.62,11.68,19.46,3.88,9.85,0.3,17.75,48,489,149.05
+Delhi,Education,Outdoor,Winter,49.63,0.7,9.25,8.04,0.84,20.9,20.34,44,290,144.94
+Vadodara,Real Estate,Outdoor,Monsoon,33.9,11.88,3.6,8.87,6.73,36.9,51.01,18,75,129.49
+Pune,Telecom,Digital,Festive,16.53,23.86,4.01,1.43,4.54,32.5,29.63,23,259,170.67
+Kolkata,Healthcare,Print,Festive,44.08,18.08,2.42,2.17,2.37,33.0,40.85,33,458,223.24
+Delhi,E-Commerce,Print,Summer,13.66,3.49,16.17,2.32,1.94,31.8,25.34,16,378,86.43
+Vadodara,Real Estate,Social Media,Summer,27.66,25.49,2.88,6.97,9.25,12.9,19.28,38,59,172.03
+Lucknow,Real Estate,Radio,Monsoon,32.17,16.17,2.94,6.11,8.09,30.6,38.28,35,327,143.52
+Jaipur,Healthcare,Outdoor,Festive,11.83,25.33,17.08,6.27,4.18,5.7,10.98,34,401,200.84
+Delhi,Healthcare,Social Media,Festive,48.94,17.62,7.22,9.42,7.33,26.3,23.63,28,7,284.81
+Jaipur,FMCG,TV,Summer,37.66,17.01,1.1,7.8,7.64,25.7,14.12,2,30,168.38
+Mumbai,Telecom,Outdoor,Festive,28.33,3.61,1.51,1.45,3.33,1.0,42.36,30,317,100.86
+Ahmedabad,Healthcare,Social Media,Winter,9.85,5.44,3.27,3.61,9.96,31.5,56.76,13,130,35.48
+Mumbai,Automobile,Outdoor,Summer,3.64,29.17,4.66,4.47,11.82,36.1,59.74,41,412,117.57
+Surat,Food & Beverage,Radio,Monsoon,16.68,7.24,13.47,4.08,11.98,10.7,28.12,16,57,78.78
+Lucknow,E-Commerce,TV,Summer,37.91,29.33,3.57,6.76,9.24,32.5,16.65,5,202,209.44
+Pune,Telecom,Radio,Festive,14.2,16.19,2.82,8.94,7.92,3.3,27.68,28,303,129.59
+Kolkata,Fashion,TV,Monsoon,27.44,4.51,15.41,3.2,1.38,24.0,51.14,39,192,83.97
+Nagpur,Automobile,Digital,Summer,36.67,3.43,13.59,5.61,4.67,19.4,13.95,45,190,141.1
+Jaipur,Education,Social Media,Winter,6.29,6.66,8.99,7.94,1.85,21.8,57.22,20,309,39.79
+Kolkata,Healthcare,TV,Winter,34.58,27.81,11.21,4.28,14.48,37.0,21.83,24,302,223.93
+Jaipur,Fashion,Radio,Summer,5.5,12.72,6.58,1.85,2.46,34.9,59.18,27,208,57.01
+Bangalore,Healthcare,Outdoor,Winter,48.29,12.17,9.91,4.85,2.7,31.4,50.64,30,488,168.13
+Delhi,Real Estate,TV,Winter,24.93,9.74,10.38,0.74,13.4,10.9,48.9,45,454,113.42
+Surat,Automobile,Social Media,Winter,8.38,4.84,8.05,9.44,14.19,36.5,20.44,27,15,77.59
+Ahmedabad,Real Estate,TV,Monsoon,17.78,14.89,18.18,0.93,11.6,3.9,2.51,26,363,153.3
+Nagpur,FMCG,Print,Winter,21.26,4.34,0.81,4.5,0.58,34.1,24.16,7,358,91.47
+Bhopal,Real Estate,Outdoor,Winter,38.15,25.15,15.75,5.39,0.52,13.1,19.5,42,478,218.41
+Jaipur,FMCG,Social Media,Winter,37.43,11.43,2.93,9.86,5.98,2.2,4.17,47,150,174.77
+Kolkata,FMCG,Social Media,Monsoon,30.99,11.56,16.05,1.83,2.58,26.8,31.31,38,89,143.01
+Surat,Fashion,Digital,Summer,6.19,14.48,12.51,1.32,0.77,9.3,25.38,5,104,75.91
+Chennai,Healthcare,Radio,Festive,8.43,13.6,16.94,0.29,7.23,9.7,38.8,23,108,103.84
+Nagpur,Education,Digital,Winter,5.59,29.85,2.4,1.72,14.17,12.2,38.03,28,440,108.48
+Chennai,Real Estate,Social Media,Summer,29.28,16.59,11.4,2.23,5.2,2.5,9.0,34,50,156.26
+Mumbai,Automobile,Outdoor,Winter,43.98,3.1,10.27,6.38,10.09,7.1,58.66,15,48,105.27
+Ahmedabad,FMCG,TV,Monsoon,22.26,18.4,14.27,2.35,9.96,0.2,12.84,32,282,175.02
+Indore,Healthcare,TV,Summer,8.88,4.97,10.92,0.4,4.14,17.8,27.83,26,185,53.65
+Indore,E-Commerce,Outdoor,Monsoon,28.34,1.41,11.04,8.3,9.93,3.4,30.31,48,191,113.98
+Bhopal,Telecom,Social Media,Winter,40.78,29.14,8.88,3.78,3.58,27.3,49.16,31,482,203.9
+Bangalore,Fashion,TV,Winter,37.34,23.32,6.52,3.67,2.27,9.4,7.76,19,118,173.7
+Kolkata,Education,TV,Monsoon,44.19,29.41,9.9,3.16,10.67,37.7,26.86,9,495,220.5
+Vadodara,Retail,TV,Festive,14.62,14.6,2.81,9.76,2.14,34.9,38.45,29,259,136.44
+Bhopal,Fashion,Radio,Monsoon,10.5,16.2,19.25,1.87,14.96,11.6,14.48,39,385,152.66
+Delhi,E-Commerce,Radio,Winter,44.11,5.47,14.43,9.0,3.16,31.3,38.39,4,384,147.59
+Delhi,Telecom,Print,Monsoon,33.22,7.78,19.07,7.81,9.12,32.1,55.57,3,34,110.36
+Kolkata,E-Commerce,Digital,Festive,16.24,25.24,4.92,0.95,6.46,39.5,59.86,29,268,149.59
+Vadodara,Real Estate,Outdoor,Monsoon,37.38,11.01,17.65,9.87,2.33,23.9,3.88,11,102,170.44
+Pune,FMCG,Outdoor,Festive,40.94,24.89,16.27,2.86,0.9,3.3,15.66,33,317,265.49
+Bangalore,Education,Outdoor,Festive,31.13,21.42,13.7,1.17,9.53,25.9,20.0,38,371,256.25
+Surat,Food & Beverage,Print,Monsoon,34.71,5.73,12.69,8.33,12.2,25.0,25.15,11,333,147.81
+Jaipur,FMCG,Radio,Monsoon,19.39,15.47,6.67,7.13,12.71,25.5,16.05,27,119,129.37
+Vadodara,Food & Beverage,Social Media,Summer,27.4,20.48,16.42,6.25,7.5,12.3,13.8,33,280,186.32
+Indore,Telecom,Social Media,Winter,26.68,7.43,10.28,1.73,11.77,34.4,57.36,21,492,114.38
+Nagpur,Healthcare,Print,Festive,42.55,25.01,1.88,4.89,10.26,38.4,55.27,39,285,247.57
+Pune,Retail,Social Media,Summer,42.16,16.57,6.6,7.85,11.0,8.7,4.73,31,279,202.89
+Jaipur,Automobile,Outdoor,Monsoon,41.8,5.37,18.74,3.18,7.64,3.5,21.65,38,265,167.4
+Jaipur,FMCG,Digital,Winter,1.54,17.7,17.09,3.25,9.68,7.8,25.5,46,335,105.71
+Pune,Education,TV,Summer,37.73,29.99,19.65,0.23,12.18,32.8,15.86,2,211,237.55
+Mumbai,E-Commerce,Radio,Festive,38.18,4.94,12.75,1.91,6.27,27.1,38.47,27,388,197.33
+Chennai,Education,Radio,Summer,34.24,24.59,5.33,8.78,12.19,25.4,39.14,36,332,195.43
+Jaipur,Telecom,Print,Festive,38.06,6.62,3.67,4.53,9.08,16.1,51.33,11,215,137.83
+Pune,Food & Beverage,Radio,Monsoon,42.26,23.58,4.14,9.85,2.91,23.1,44.97,47,219,185.55
+Vadodara,E-Commerce,Outdoor,Winter,24.05,22.17,0.89,4.08,0.86,12.3,33.47,18,415,120.58
+Pune,Automobile,Social Media,Winter,25.6,9.36,8.12,7.21,5.76,19.1,39.91,1,44,103.51
+Lucknow,Automobile,Outdoor,Winter,7.11,10.11,4.23,2.96,8.43,31.7,17.89,35,484,83.02
+Bhopal,FMCG,Print,Monsoon,19.88,23.88,8.53,3.77,12.68,39.2,36.4,35,30,150.45
+Hyderabad,Telecom,Outdoor,Festive,32.52,14.11,18.73,2.07,2.35,37.3,30.38,31,31,222.9
+Mumbai,Healthcare,Social Media,Monsoon,39.24,22.06,8.9,3.6,12.1,37.4,9.73,28,194,220.86
+Ahmedabad,Telecom,Digital,Winter,11.64,4.87,17.62,5.56,13.01,16.1,16.07,39,87,111.93
+Hyderabad,Food & Beverage,Print,Monsoon,7.75,25.65,12.31,9.92,2.68,18.8,18.92,1,388,138.23
+Bhopal,Education,Digital,Monsoon,33.49,21.47,5.32,6.71,12.85,28.2,55.61,25,438,152.35
+Bhopal,Automobile,TV,Monsoon,1.09,27.25,7.44,2.15,14.88,36.9,15.36,43,174,137.16
+Bhopal,Education,Digital,Festive,9.74,4.4,2.14,0.64,11.04,5.7,18.78,38,417,93.75
