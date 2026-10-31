@@ -1,0 +1,31 @@
+# Environments & Secrets
+.env
+.env.*
+!.env.example
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# Node.js Dependencies
+node_modules/
+
+# Python Cache & Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.pkl
+*.csv_clean
+*.html
+*.log
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# IDE & Editor Configurations
+.vscode/
+.idea/
+*.swp
+*.swo
